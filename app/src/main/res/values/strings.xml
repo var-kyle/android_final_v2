@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">android_final</string>
+    <string name="app_name">Android Final</string>
+    <string name="btnMultipleChoice">Multiple Choice Quiz Creator</string>
+    <string name="btnIntakeForm">Patient Intake Form</string>
+    <string name="btnMovieInfo">Movie Information</string>
+    <string name="btnOCTranspo">OC Transpo Bus Route App</string>
 </resources>
